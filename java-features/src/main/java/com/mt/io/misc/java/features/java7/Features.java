@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 
- * @author yanglei, cdyanglei5@jd.com
+ * @author yanglei, ylei.yanglei@outlook.com
  * @version 1.0.1, 2018年9月4日
  * @since 2018年9月4日
  * 
